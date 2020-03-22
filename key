@@ -1,0 +1,26 @@
+1: NOT gate -A
+
+2: a)Potentiometer
+   b)Gate Indentify   (04-NOT 08-AND 86-XOR 32-NOR CD4011-NAND)
+   c)DeMorgan's
+   d)Full adder using Half adders
+
+3: 1 bit ALU
+
+4: 7 seg display using MUX-DEMUX -A
+
+5: a) SR Latch
+   b) JK Flip-Flop
+   c) Up-Down Counter -A
+
+6: ALU Bus
+
+7: USART -A
+   a) Input-Output
+   b) Multiplier
+
+8: Interrupt -A
+
+9: Motor -A
+
+
